@@ -1,0 +1,55 @@
+com.example.th4.app-core-runtime-2.2.0-0 C:\Users\khoi van\.gradle\caches\8.13\transforms\05ea4fc5541826d4b35cbd4a3abde7d5\transformed\core-runtime-2.2.0\res
+com.example.th4.app-animation-release-1 C:\Users\khoi van\.gradle\caches\8.13\transforms\0ad16eb883bdd2e5f238ed1887cc8219\transformed\animation-release\res
+com.example.th4.app-runtime-release-2 C:\Users\khoi van\.gradle\caches\8.13\transforms\0b3a1b37b62c2950a76dd4f985641f4f\transformed\runtime-release\res
+com.example.th4.app-ui-util-release-3 C:\Users\khoi van\.gradle\caches\8.13\transforms\0e4354f31b0dbec836be45f73dde836b\transformed\ui-util-release\res
+com.example.th4.app-activity-ktx-1.9.0-4 C:\Users\khoi van\.gradle\caches\8.13\transforms\106c19fba5066ca5054530a45741ce45\transformed\activity-ktx-1.9.0\res
+com.example.th4.app-activity-1.9.0-5 C:\Users\khoi van\.gradle\caches\8.13\transforms\15ee632367061abdace4ee6c521d7e14\transformed\activity-1.9.0\res
+com.example.th4.app-lifecycle-runtime-2.6.2-6 C:\Users\khoi van\.gradle\caches\8.13\transforms\16a97c4922349d359d70ad14e9c63c4d\transformed\lifecycle-runtime-2.6.2\res
+com.example.th4.app-ui-release-7 C:\Users\khoi van\.gradle\caches\8.13\transforms\185f7a26034e60d5a009a306b187cb51\transformed\ui-release\res
+com.example.th4.app-ui-text-release-8 C:\Users\khoi van\.gradle\caches\8.13\transforms\297323a2a2b24a15cb4b0302e78eb689\transformed\ui-text-release\res
+com.example.th4.app-lifecycle-livedata-core-2.6.2-9 C:\Users\khoi van\.gradle\caches\8.13\transforms\29881447db0a9de17e1f8fd09baa4920\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.th4.app-navigation-runtime-2.7.7-10 C:\Users\khoi van\.gradle\caches\8.13\transforms\2d0b074be8031ad32d454ff6b59521f1\transformed\navigation-runtime-2.7.7\res
+com.example.th4.app-ui-test-manifest-1.5.4-11 C:\Users\khoi van\.gradle\caches\8.13\transforms\350a94cdbde4b33ff36a87d36e1bf572\transformed\ui-test-manifest-1.5.4\res
+com.example.th4.app-lifecycle-runtime-ktx-2.6.2-12 C:\Users\khoi van\.gradle\caches\8.13\transforms\4901430f9d917b2506c31ec8d0b2ffe9\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.th4.app-ui-unit-release-13 C:\Users\khoi van\.gradle\caches\8.13\transforms\51dae2fb15823611a80384c867000459\transformed\ui-unit-release\res
+com.example.th4.app-core-ktx-1.13.0-14 C:\Users\khoi van\.gradle\caches\8.13\transforms\559e8676bfdb69da84b6cf835c391c1e\transformed\core-ktx-1.13.0\res
+com.example.th4.app-annotation-experimental-1.4.0-15 C:\Users\khoi van\.gradle\caches\8.13\transforms\55b11aac843c236ee165df21aa997db7\transformed\annotation-experimental-1.4.0\res
+com.example.th4.app-activity-compose-1.9.0-16 C:\Users\khoi van\.gradle\caches\8.13\transforms\5693a638a511e02b3ad4be3651427394\transformed\activity-compose-1.9.0\res
+com.example.th4.app-runtime-saveable-release-17 C:\Users\khoi van\.gradle\caches\8.13\transforms\5a553d6a6e3041c7b10e6a91cbea4c96\transformed\runtime-saveable-release\res
+com.example.th4.app-lifecycle-viewmodel-ktx-2.6.2-18 C:\Users\khoi van\.gradle\caches\8.13\transforms\6c2e3722acfb51ea9b0753474c6c8347\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.th4.app-profileinstaller-1.3.1-19 C:\Users\khoi van\.gradle\caches\8.13\transforms\6c9443588223f4c5dcb59c4c05864788\transformed\profileinstaller-1.3.1\res
+com.example.th4.app-foundation-release-20 C:\Users\khoi van\.gradle\caches\8.13\transforms\6d41e2bfb4d4be7a63f2929ad204fbbc\transformed\foundation-release\res
+com.example.th4.app-lifecycle-viewmodel-2.6.2-21 C:\Users\khoi van\.gradle\caches\8.13\transforms\7601d4b0621e757d30052800f51a43a6\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.th4.app-startup-runtime-1.1.1-22 C:\Users\khoi van\.gradle\caches\8.13\transforms\775bac89a720c198efbbb200b8241f0c\transformed\startup-runtime-1.1.1\res
+com.example.th4.app-ui-graphics-release-23 C:\Users\khoi van\.gradle\caches\8.13\transforms\816c96902c37a11d3fbd414c211fe301\transformed\ui-graphics-release\res
+com.example.th4.app-material-icons-extended-release-24 C:\Users\khoi van\.gradle\caches\8.13\transforms\8f665bda98b9bab2fe2387799fd240c9\transformed\material-icons-extended-release\res
+com.example.th4.app-navigation-common-2.7.7-25 C:\Users\khoi van\.gradle\caches\8.13\transforms\9168db35e9313135c7c4021615c30ba3\transformed\navigation-common-2.7.7\res
+com.example.th4.app-core-1.13.0-26 C:\Users\khoi van\.gradle\caches\8.13\transforms\9256bc475114441bd4c7b8940a7b4966\transformed\core-1.13.0\res
+com.example.th4.app-savedstate-ktx-1.2.1-27 C:\Users\khoi van\.gradle\caches\8.13\transforms\95e8a6f9683366e5ebc68759766ebc12\transformed\savedstate-ktx-1.2.1\res
+com.example.th4.app-customview-poolingcontainer-1.0.0-28 C:\Users\khoi van\.gradle\caches\8.13\transforms\988deda1f0c0c851f8317c00031cb9d5\transformed\customview-poolingcontainer-1.0.0\res
+com.example.th4.app-navigation-common-ktx-2.7.7-29 C:\Users\khoi van\.gradle\caches\8.13\transforms\991a8fa79fa3daaf2aaad296e28360c5\transformed\navigation-common-ktx-2.7.7\res
+com.example.th4.app-ui-geometry-release-30 C:\Users\khoi van\.gradle\caches\8.13\transforms\9affc482b5d8bd429d9ca585233b008a\transformed\ui-geometry-release\res
+com.example.th4.app-lifecycle-process-2.6.2-31 C:\Users\khoi van\.gradle\caches\8.13\transforms\9beaabb8189facd30c21b37644435008\transformed\lifecycle-process-2.6.2\res
+com.example.th4.app-material-ripple-release-32 C:\Users\khoi van\.gradle\caches\8.13\transforms\a07e1ef31d671e4a64419dfeed2e6e18\transformed\material-ripple-release\res
+com.example.th4.app-navigation-runtime-ktx-2.7.7-33 C:\Users\khoi van\.gradle\caches\8.13\transforms\b2c1de2e6ac1ad2884b16977e887c2f1\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.th4.app-ui-tooling-preview-release-34 C:\Users\khoi van\.gradle\caches\8.13\transforms\b710d230ac46897d334a105ecd199829\transformed\ui-tooling-preview-release\res
+com.example.th4.app-ui-tooling-data-release-35 C:\Users\khoi van\.gradle\caches\8.13\transforms\ba5ca4f3a80d2926b74bf6bc8524bff4\transformed\ui-tooling-data-release\res
+com.example.th4.app-material-icons-core-release-36 C:\Users\khoi van\.gradle\caches\8.13\transforms\c500c7d56b86f10ffd2703fbb77c2d6b\transformed\material-icons-core-release\res
+com.example.th4.app-emoji2-1.4.0-37 C:\Users\khoi van\.gradle\caches\8.13\transforms\c77134d94e07b7e79cc6332c89f30277\transformed\emoji2-1.4.0\res
+com.example.th4.app-foundation-layout-release-38 C:\Users\khoi van\.gradle\caches\8.13\transforms\c795d96f18dceb8156729a055b6854a7\transformed\foundation-layout-release\res
+com.example.th4.app-material3-1.1.2-39 C:\Users\khoi van\.gradle\caches\8.13\transforms\c8324de48a80343f5067e87367414c3b\transformed\material3-1.1.2\res
+com.example.th4.app-savedstate-1.2.1-40 C:\Users\khoi van\.gradle\caches\8.13\transforms\c83e9a0904014916f6a45d58c725bf82\transformed\savedstate-1.2.1\res
+com.example.th4.app-material-release-41 C:\Users\khoi van\.gradle\caches\8.13\transforms\cf54c4a5801bc2fc1e5e0d175da3848b\transformed\material-release\res
+com.example.th4.app-navigation-compose-2.7.7-42 C:\Users\khoi van\.gradle\caches\8.13\transforms\ded31393d44fba10d22441bf1e959a4b\transformed\navigation-compose-2.7.7\res
+com.example.th4.app-ui-tooling-release-43 C:\Users\khoi van\.gradle\caches\8.13\transforms\e36f546366dc414dd03c772db61e3a56\transformed\ui-tooling-release\res
+com.example.th4.app-lifecycle-viewmodel-compose-2.6.2-44 C:\Users\khoi van\.gradle\caches\8.13\transforms\f3fbb4d44bfe0db9ecc31b2cadc22858\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.th4.app-animation-core-release-45 C:\Users\khoi van\.gradle\caches\8.13\transforms\f8f3e5da1159160e59e29bc074422d26\transformed\animation-core-release\res
+com.example.th4.app-lifecycle-viewmodel-savedstate-2.6.2-46 C:\Users\khoi van\.gradle\caches\8.13\transforms\fc222ef53dff25547515924c70b5c34c\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.th4.app-pngs-47 D:\LTTBDD\th4\app\build\generated\res\pngs\debug
+com.example.th4.app-resValues-48 D:\LTTBDD\th4\app\build\generated\res\resValues\debug
+com.example.th4.app-updated_navigation_xml-49 D:\LTTBDD\th4\app\build\generated\updated_navigation_xml\debug
+com.example.th4.app-packageDebugResources-50 D:\LTTBDD\th4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.th4.app-packageDebugResources-51 D:\LTTBDD\th4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.th4.app-debug-52 D:\LTTBDD\th4\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.th4.app-debug-53 D:\LTTBDD\th4\app\src\debug\res
+com.example.th4.app-main-54 D:\LTTBDD\th4\app\src\main\res

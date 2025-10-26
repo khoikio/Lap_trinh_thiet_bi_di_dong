@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Tuan3"
 include(":Tuan3")
+include(":app")
  

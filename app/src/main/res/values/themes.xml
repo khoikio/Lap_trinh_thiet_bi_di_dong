@@ -2,4 +2,6 @@
 <resources>
 
     <style name="Theme.Tuan3" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.BT_T4" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
